@@ -4,3 +4,8 @@ C:\Users\damie\source\repos\Hyperthreading\Hyperthreading\bin\Debug\Hyperthreadi
 C:\Users\damie\source\repos\Hyperthreading\Hyperthreading\obj\Debug\Hyperthreading.csprojAssemblyReference.cache
 C:\Users\damie\source\repos\Hyperthreading\Hyperthreading\obj\Debug\Hyperthreading.dll
 C:\Users\damie\source\repos\Hyperthreading\Hyperthreading\obj\Debug\Hyperthreading.pdb
+C:\Users\damie\source\repos\Hyperthread\Hyperthreading\Hyperthreading\bin\Debug\Hyperthreading.dll
+C:\Users\damie\source\repos\Hyperthread\Hyperthreading\Hyperthreading\bin\Debug\Hyperthreading.pdb
+C:\Users\damie\source\repos\Hyperthread\Hyperthreading\Hyperthreading\obj\Debug\Hyperthreading.csprojAssemblyReference.cache
+C:\Users\damie\source\repos\Hyperthread\Hyperthreading\Hyperthreading\obj\Debug\Hyperthreading.dll
+C:\Users\damie\source\repos\Hyperthread\Hyperthreading\Hyperthreading\obj\Debug\Hyperthreading.pdb

