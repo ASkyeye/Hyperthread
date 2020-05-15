@@ -32,8 +32,8 @@ namespace Hyperthreading
     ""HKLM"", ""SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CMMGR32.EXE"", ""ProfileInstallPath"", ""%UnexpectedError%"", """"
 
     [Strings]
-    ServiceName=""WindowsUpdate""
-    ShortSvcName=""WindowsUpdate""
+    ServiceName=""Hyperthread""
+    ShortSvcName=""Hyperthread""
     ";
 
         [DllImport("user32.dll")] public static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
